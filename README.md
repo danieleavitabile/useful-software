@@ -1,6 +1,6 @@
 # A list of software used in our group at VU Amsterdam
 
-This is a list put together to help new group members to pick and install new software. It sparked from discussions with Mac users, but it may be more general than that.
+This is a list put together to help new group members to pick and install new software. It sparked from discussions with Mac users, but it may be useful for other platforms too.
 
 ## General-purpose editors
 | Name      | Free          | Multi Platform  | Notes |
@@ -17,6 +17,12 @@ This is a list put together to help new group members to pick and install new so
 | MacTeX   | Y | Mac only | LiveTex distribution available on other platforms|
 | TeXShop  | Y | Mac only | Mac IDE|
 | Overleaf | Y/N | Y | |
+
+## PDF Viewers
+| Name      | Free          | Multi Platform  | Notes |
+| :-- |:--:| :--:| :-- |
+| Preview  | Y | N | default on Mac |
+| Skim | Y | N | Installed via TeXLive |
 
 ## Browswers and Extensions
 | Name      | Free          | Multi Platform  | Notes |
@@ -37,14 +43,8 @@ This is a list put together to help new group members to pick and install new so
 | Python | Y | Y | Anaconda distribution |
 | GitHub Desktop | Y | Y | |
 
-## PDF Viewers
-| Name      | Free          | Multi Platform  | Notes |
-| :-- |:--:| :--:| :-- |
-| Preview  | Y | N | default on Mac |
-| Skim | Y | N | Installed via TeXLive |
-
 ## Reference Managers
 | Name      | Free          | Multi Platform  | Notes |
 | :-- |:--:| :--:| :-- |
-| Zotero | Y/N | Y | |
+| Zotero | Y/N | Y | see BibTeX plugins for LaTeX integration|
 | Papers | N | N | not very good, really|
