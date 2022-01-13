@@ -21,8 +21,8 @@ This is a list put together to help new group members to pick and install new so
 ## PDF Viewers
 | Name      | Free          | Multi Platform  | Notes |
 | :-- |:--:| :--:| :-- |
-| Preview  | Y | N | default on Mac |
-| Skim | Y | N | Installed via TeXLive |
+| Preview  | Y | Mac only | default on Mac |
+| Skim | Y | Mac only | Installed via TeXLive |
 
 ## Browswers and Extensions
 | Name      | Free          | Multi Platform  | Notes |
@@ -47,4 +47,5 @@ This is a list put together to help new group members to pick and install new so
 | Name      | Free          | Multi Platform  | Notes |
 | :-- |:--:| :--:| :-- |
 | Zotero | Y/N | Y | see BibTeX plugins for LaTeX integration|
-| Papers | N | N | not very good, really|
+| JabRef | Y/N | Y | see BibTeX plugins for LaTeX integration|
+| Papers | N | Y | not very good, really|
