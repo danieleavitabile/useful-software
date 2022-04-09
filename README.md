@@ -49,3 +49,10 @@ This is a list put together to help new group members to pick and install new so
 | Zotero | Y/N | Y | see BibTeX plugins for LaTeX integration|
 | JabRef | Y/N | Y | see BibTeX plugins for LaTeX integration|
 | Papers | N | Y | not very good, really|
+
+## Drawing programs
+| Name      | Free          | Multi Platform  | Notes |
+| :-- |:--:| :--:| :-- |
+| Adobe Illustrator | N | Y | VU licenses available|
+| Affinity Designer | N | Y | |
+| Inkscape | Y | Y/N | Seems less user-friendly on Mac |
